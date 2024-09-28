@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PHP计算机程序与解释",
+    "section": "",
+    "text": "Preface\n这是一本用PHP来说明计算机程序与解释的书。",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "001_构造过程抽象.html",
+    "href": "001_构造过程抽象.html",
+    "title": "1  构造过程抽象",
+    "section": "",
+    "text": "1.1 程序设计的基本元素",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>构造过程抽象</span>"
+    ]
+  },
+  {
+    "objectID": "001_构造过程抽象.html#过程与它们所产生的计算",
+    "href": "001_构造过程抽象.html#过程与它们所产生的计算",
+    "title": "1  构造过程抽象",
+    "section": "1.2 过程与它们所产生的计算",
+    "text": "1.2 过程与它们所产生的计算",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>构造过程抽象</span>"
+    ]
+  },
+  {
+    "objectID": "001_构造过程抽象.html#用高价函数做抽象",
+    "href": "001_构造过程抽象.html#用高价函数做抽象",
+    "title": "1  构造过程抽象",
+    "section": "1.3 用高价函数做抽象",
+    "text": "1.3 用高价函数做抽象",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>构造过程抽象</span>"
+    ]
+  },
+  {
+    "objectID": "002_构造数据抽象.html",
+    "href": "002_构造数据抽象.html",
+    "title": "2  构造数据抽象",
+    "section": "",
+    "text": "2.1 数据抽象导引",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>构造数据抽象</span>"
+    ]
+  },
+  {
+    "objectID": "003_模块化、对象和状态.html",
+    "href": "003_模块化、对象和状态.html",
+    "title": "3  模块化、对象和状态",
+    "section": "",
+    "text": "3.1 赋值和局部状态",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>模块化、对象和状态</span>"
+    ]
+  },
+  {
+    "objectID": "003_模块化、对象和状态.html#求值的环境模型",
+    "href": "003_模块化、对象和状态.html#求值的环境模型",
+    "title": "3  模块化、对象和状态",
+    "section": "3.2 求值的环境模型",
+    "text": "3.2 求值的环境模型",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>模块化、对象和状态</span>"
+    ]
+  },
+  {
+    "objectID": "003_模块化、对象和状态.html#用变动数据做模拟",
+    "href": "003_模块化、对象和状态.html#用变动数据做模拟",
+    "title": "3  模块化、对象和状态",
+    "section": "3.3 用变动数据做模拟",
+    "text": "3.3 用变动数据做模拟",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>模块化、对象和状态</span>"
+    ]
+  },
+  {
+    "objectID": "003_模块化、对象和状态.html#并发时间是一个本质问题",
+    "href": "003_模块化、对象和状态.html#并发时间是一个本质问题",
+    "title": "3  模块化、对象和状态",
+    "section": "3.4 并发：时间是一个本质问题",
+    "text": "3.4 并发：时间是一个本质问题",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>模块化、对象和状态</span>"
+    ]
+  },
+  {
+    "objectID": "003_模块化、对象和状态.html#流",
+    "href": "003_模块化、对象和状态.html#流",
+    "title": "3  模块化、对象和状态",
+    "section": "3.5 流",
+    "text": "3.5 流",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>模块化、对象和状态</span>"
+    ]
+  },
+  {
+    "objectID": "002_构造数据抽象.html#层次性数据和闭包性质",
+    "href": "002_构造数据抽象.html#层次性数据和闭包性质",
+    "title": "2  构造数据抽象",
+    "section": "2.2 层次性数据和闭包性质",
+    "text": "2.2 层次性数据和闭包性质",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>构造数据抽象</span>"
+    ]
+  },
+  {
+    "objectID": "002_构造数据抽象.html#符号数据",
+    "href": "002_构造数据抽象.html#符号数据",
+    "title": "2  构造数据抽象",
+    "section": "2.3 符号数据",
+    "text": "2.3 符号数据",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>构造数据抽象</span>"
+    ]
+  },
+  {
+    "objectID": "002_构造数据抽象.html#抽象数据的多重表示",
+    "href": "002_构造数据抽象.html#抽象数据的多重表示",
+    "title": "2  构造数据抽象",
+    "section": "2.4 抽象数据的多重表示",
+    "text": "2.4 抽象数据的多重表示",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>构造数据抽象</span>"
+    ]
+  },
+  {
+    "objectID": "002_构造数据抽象.html#带有通用型操作的系统",
+    "href": "002_构造数据抽象.html#带有通用型操作的系统",
+    "title": "2  构造数据抽象",
+    "section": "2.5 带有通用型操作的系统",
+    "text": "2.5 带有通用型操作的系统",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>构造数据抽象</span>"
+    ]
+  }
+]
